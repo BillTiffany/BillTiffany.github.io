@@ -140,6 +140,7 @@ html {
     height: 140px;
     border-radius: 50%;
     text-align: center;
+    border:2px white solid;
 }
 
 .menu .author-content {
@@ -696,6 +697,10 @@ section.contact-me {
         width: 36px;
         height: 36px;
         line-height: 36px;
+        border:2px white solid;
+        justify-content: space-between;
+        /* margin-left:10px; */
+        margin-right:10px;
     }
 
     .menu .social-network ul li {
