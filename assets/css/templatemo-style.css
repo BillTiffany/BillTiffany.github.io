@@ -435,27 +435,27 @@ button:hover {
 }
 
 .service-item .first-service-icon {
-    background-image: url(../images/first-white-icon.png);
+    background-image: url("https://drive.google.com/uc?export=view&id=1vUvFHgLKFOJIv6vvGQx90VzMC_hnKYXi");
 }
 
 .service-item:hover .first-service-icon {
-    background-image: url(../images/first-main-icon.png);
+    background-image: url("https://drive.google.com/uc?export=view&id=1jyQBzM0AiZM2XNN71U9CWhJBHejW4vUT");
 }
 
 .service-item .second-service-icon {
-    background-image: url(../images/second-white-icon.png);
+    background-image: url("https://drive.google.com/uc?export=view&id=1Gx4ajNOQres56MVk33vJr46a3lHlYtnt");
 }
 
 .service-item:hover .second-service-icon {
-    background-image: url(../images/second-main-icon.png);
+    background-image: url("https://drive.google.com/uc?export=view&id=1VU050Q7OBc8CLkMtvx2_WGwGVEYqRV72");
 }
 
 .service-item .third-service-icon {
-    background-image: url(../images/third-white-icon.png);
+    background-image: url("https://drive.google.com/uc?export=view&id=1Rs-wKbCdBaFGVNZ6oLkt8kFcgop-JhGk");
 }
 
 .service-item:hover .third-service-icon {
-    background-image: url(../images/third-main-icon.png);
+    background-image: url("https://drive.google.com/uc?export=view&id=14zNKATz2700M3X8qPBnr-wzqo6qclxTH");
 }
 
 .service-item .fourth-service-icon {
