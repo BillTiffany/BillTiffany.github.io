@@ -136,8 +136,10 @@ html {
 }
 
 .menu .image img {
-    width: 140px;
-    height: 140px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
     border-radius: 50%;
     text-align: center;
     border:2px white solid;
